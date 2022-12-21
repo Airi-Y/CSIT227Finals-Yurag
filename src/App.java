@@ -35,7 +35,6 @@ public class App extends JFrame{
         app.setSize(600, 500);
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setVisible(true);
-        app.setTitle("13th Month Pay");
         app.taPersons.setEditable(false);
     }
 
