@@ -36,6 +36,7 @@ public class App extends JFrame{
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setVisible(true);
         app.setTitle("13th Month Pay");
+        app.taPersons.setEditable(false);
     }
 
     static void giveReward(int n) {
